@@ -1,0 +1,5 @@
+Correlations with price:
+Mileage_num: -0.3315
+Car_Age: -0.2999
+Engine_num: 0.6552
+Power_num: 0.7706

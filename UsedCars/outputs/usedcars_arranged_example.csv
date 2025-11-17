@@ -1,0 +1,101 @@
+Unnamed: 0,Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,Price,Mileage_num,Engine_num,Power_num,Fuel_Diesel,Fuel_Electric,Fuel_Petrol,Trans_Automatic,Trans_Manual,Car_Age,Mileage_per_cc
+5102,Maruti Wagon R VXI,Kochi,2019,31817,Petrol,Manual,First,22.5 kmpl,998 CC,67.04 bhp,5.0,5.34,22.5,998.0,67.04,False,False,True,False,True,6,0.02254509015777045
+1797,Toyota Etios Liva 1.2 VX Dual Tone,Coimbatore,2019,20877,Petrol,Manual,First,18.16 kmpl,1197 CC,78.9 bhp,5.0,7.27,18.16,1197.0,78.9,False,False,True,False,True,6,0.015171261474376556
+2095,Mercedes-Benz SLC 43 AMG,Coimbatore,2019,2526,Petrol,Automatic,First,19.0 kmpl,2996 CC,362.07 bhp,2.0,83.96,19.0,2996.0,362.07,False,False,True,True,False,6,0.006341789049952674
+1032,Renault Captur 1.5 Diesel Platine Mono,Kochi,2019,3102,Diesel,Manual,First,20.37 kmpl,1461 CC,108.45 bhp,5.0,14.01,20.37,1461.0,108.45,True,False,False,False,True,6,0.0139425051239271
+1018,Maruti Swift Dzire VDI Optional,Kochi,2019,18592,Diesel,Manual,First,26.59 kmpl,1248 CC,74 bhp,5.0,8.51,26.59,1248.0,74.0,True,False,False,False,True,6,0.021306089726517555
+1077,Maruti Vitara Brezza ZDi Plus,Kochi,2019,34688,Diesel,Manual,First,24.3 kmpl,1248 CC,88.5 bhp,5.0,10.49,24.3,1248.0,88.5,True,False,False,False,True,6,0.01947115383055196
+5434,Honda WR-V Edge Edition i-VTEC S,Kochi,2019,13913,Petrol,Manual,First,17.5 kmpl,1199 CC,88.7 bhp,5.0,8.2,17.5,1199.0,88.7,False,False,True,False,True,6,0.014595496234699334
+1010,Ford Ecosport Signature Edition Diesel,Coimbatore,2019,23154,Diesel,Manual,First,23.0 kmpl,1498 CC,98.96 bhp,5.0,11.65,23.0,1498.0,98.96,True,False,False,False,True,6,0.015353805063181705
+1008,Maruti Omni E MPI STD BS IV,Kochi,2019,11571,Petrol,Manual,First,16.8 kmpl,796 CC,34.2 bhp,8.0,3.8,16.8,796.0,34.2,False,False,True,False,True,6,0.021105527611676472
+3324,Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,29836,Diesel,Automatic,First,17.9 kmpl,2143 CC,136 bhp,5.0,25.75,17.9,2143.0,136.0,True,False,False,True,False,6,0.008352776477670193
+975,Ford Endeavour 2.2 Trend AT 4X2,Kochi,2019,11209,Diesel,Automatic,First,12.62 kmpl,2198 CC,158 bhp,7.0,31.15,12.62,2198.0,158.0,True,False,False,True,False,6,0.005741583254894639
+2728,Maruti Baleno Alpha CVT,Kochi,2019,13574,Petrol,Automatic,First,21.4 kmpl,1197 CC,83.1 bhp,5.0,9.51,21.4,1197.0,83.1,False,False,True,True,False,6,0.017878028389408496
+4961,Maruti Dzire AMT ZXI Plus,Coimbatore,2019,8018,Petrol,Automatic,First,22.0 kmpl,1197 CC,81.80 bhp,5.0,8.3,22.0,1197.0,81.8,False,False,True,True,False,6,0.01837928152182182
+4591,Audi A4 35 TDI Technology Edition,Kochi,2019,38163,Diesel,Automatic,First,17.11 kmpl,1968 CC,174.33 bhp,5.0,32.91,17.11,1968.0,174.33,True,False,False,True,False,6,0.008694105686639173
+5560,Renault KWID RXT Optional,Kochi,2019,6568,Petrol,Manual,First,25.17 kmpl,799 CC,53.3 bhp,5.0,5.09,25.17,799.0,53.3,False,False,True,False,True,6,0.031501877307256725
+1198,Volkswagen Polo 1.0 MPI Trendline,Hyderabad,2019,1000,Petrol,Manual,First,18.78 kmpl,999 CC,75 bhp,5.0,5.68,18.78,999.0,75.0,False,False,True,False,True,6,0.018798798779981182
+4328,Maruti Swift DDiS VDI,Coimbatore,2019,41075,Diesel,Manual,First,28.4 kmpl,1248 CC,74 bhp,5.0,8.4,28.4,1248.0,74.0,True,False,False,False,True,6,0.02275641023817595
+4350,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,31271,Diesel,Manual,First,13.68 kmpl,2393 CC,147.8 bhp,8.0,21.42,13.68,2393.0,147.8,True,False,False,False,True,6,0.005716673629036074
+4978,Honda Amaze V CVT Petrol,Kochi,2019,25717,Petrol,Automatic,First,19.0 kmpl,1199 CC,88.76 bhp,5.0,8.86,19.0,1199.0,88.76,False,False,True,True,False,6,0.015846538769102133
+796,Mahindra XUV500 W9 AT,Coimbatore,2019,19654,Diesel,Automatic,First,14.0 kmpl,2179 CC,155 bhp,7.0,17.63,14.0,2179.0,155.0,True,False,False,True,False,6,0.006424965577592949
+5582,Toyota Fortuner 2.8 2WD AT,Coimbatore,2019,28069,Diesel,Automatic,First,12.9 kmpl,2755 CC,174.5 bhp,7.0,30.85,12.9,2755.0,174.5,True,False,False,True,False,6,0.004682395642583523
+4601,BMW X1 sDrive 20d xLine,Coimbatore,2019,15456,Diesel,Automatic,First,20.68 kmpl,1995 CC,190 bhp,5.0,36.64,20.68,1995.0,190.0,True,False,False,True,False,6,0.01036591478177147
+3555,Toyota Innova Crysta 2.4 VX MT,Coimbatore,2019,33598,Diesel,Manual,First,13.68 kmpl,2393 CC,147.8 bhp,7.0,22.2,13.68,2393.0,147.8,True,False,False,False,True,6,0.005716673629036074
+3567,Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,13414,Diesel,Automatic,First,17.9 kmpl,2143 CC,136 bhp,5.0,30.77,17.9,2143.0,136.0,True,False,False,True,False,6,0.008352776477670193
+5606,Maruti Wagon R ZXI AMT 1.2,Mumbai,2019,600,Petrol,Automatic,First,21.5 kmpl,1197 CC,81.80 bhp,5.0,6.25,21.5,1197.0,81.8,False,False,True,True,False,6,0.01796157057814405
+5610,Hyundai Verna 1.6 SX VTVT,Coimbatore,2019,6028,Petrol,Manual,First,17.01 kmpl,1591 CC,121.3 bhp,5.0,11.54,17.01,1591.0,121.3,False,False,True,False,True,6,0.010691389056762169
+3232,Hyundai Creta 1.6 CRDi SX,Coimbatore,2019,54321,Diesel,Manual,First,19.67 kmpl,1582 CC,126.2 bhp,5.0,13.54,19.67,1582.0,126.2,True,False,False,False,True,6,0.012433628310724634
+1324,Maruti Ignis 1.2 Delta,Coimbatore,2019,16862,Petrol,Manual,First,20.89 kmpl,1197 CC,81.80 bhp,5.0,6.06,20.89,1197.0,81.8,False,False,True,False,True,6,0.017451963226857173
+4984,Hyundai Creta 1.6 SX Option Diesel,Coimbatore,2019,24864,Diesel,Manual,First,20.5 kmpl,1582 CC,126.2 bhp,5.0,16.27,20.5,1582.0,126.2,True,False,False,False,True,6,0.012958280649204625
+5339,Hyundai i20 Active SX Dual Tone Petrol,Pune,2019,1000,Petrol,Manual,First,17.19 kmpl,1197 CC,81.86 bhp,5.0,8.6,17.19,1197.0,81.86,False,False,True,False,True,6,0.014360902243641685
+5342,Honda Amaze VX i-VTEC,Coimbatore,2019,16573,Petrol,Manual,First,17.8 kmpl,1198 CC,86.7 bhp,5.0,9.31,17.8,1198.0,86.7,False,False,True,False,True,6,0.014858096815644326
+3196,Ford Endeavour 3.2 Titanium AT 4X4,Chennai,2019,9000,Diesel,Automatic,First,10.91 kmpl,3198 CC,197 bhp,7.0,35.5,10.91,3198.0,197.0,True,False,False,True,False,6,0.0034115071909282344
+1361,Maruti Alto 800 2016-2019 VXI,Mumbai,2019,171,Petrol,Manual,First,24.7 kmpl,796 CC,47.3 bhp,5.0,3.6,24.7,796.0,47.3,False,False,True,False,True,6,0.031030150714786243
+1368,Hyundai Grand i10 1.2 Kappa Sportz,Kochi,2019,18453,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5.0,6.17,18.9,1197.0,81.86,False,False,True,False,True,6,0.01578947367101965
+5673,Mercedes-Benz CLA 200 D Sport Edition,Coimbatore,2019,15976,Diesel,Automatic,First,17.9 kmpl,2143 CC,136 bhp,5.0,36.76,17.9,2143.0,136.0,True,False,False,True,False,6,0.008352776477670193
+599,Toyota Innova Crysta 2.8 ZX AT,Coimbatore,2019,40674,Diesel,Automatic,First,11.36 kmpl,2755 CC,171.5 bhp,7.0,24.82,11.36,2755.0,171.5,True,False,False,True,False,6,0.0041234119767247146
+1386,BMW 5 Series 520d Sport Line,Kochi,2019,18373,Diesel,Automatic,First,22.48 kmpl,1995 CC,187.74 bhp,5.0,45.86,22.48,1995.0,187.74,True,False,False,True,False,6,0.011268170420416957
+4131,Toyota Fortuner 2.8 2WD MT,Coimbatore,2019,56251,Diesel,Manual,First,14.24 kmpl,2755 CC,174.5 bhp,7.0,35.82,14.24,2755.0,174.5,True,False,False,False,True,6,0.005168784027161966
+5690,Maruti Omni 5 Seater BSIV,Coimbatore,2019,4721,Petrol,Manual,First,14.0 kmpl,796 CC,35 bhp,5.0,4.11,14.0,796.0,35.0,False,False,True,False,True,6,0.01758793967639706
+1398,Honda City V MT Exclusive,Kochi,2019,5377,Petrol,Manual,First,16.8 kmpl,1497 CC,116.3 bhp,5.0,11.45,16.8,1497.0,116.3,False,False,True,False,True,6,0.011222444882282936
+2855,Toyota Fortuner 2.8 2WD AT,Kochi,2019,21719,Diesel,Automatic,First,12.9 kmpl,2755 CC,174.5 bhp,7.0,33.13,12.9,2755.0,174.5,True,False,False,True,False,6,0.004682395642583523
+4817,Hyundai Elantra CRDi SX,Coimbatore,2019,41871,Diesel,Manual,First,22.7 kmpl,1582 CC,126.2 bhp,5.0,15.57,22.7,1582.0,126.2,True,False,False,False,True,6,0.014348925401802194
+572,Hyundai Verna 1.6 SX CRDI (O) AT,Coimbatore,2019,77240,Diesel,Automatic,First,22.32 kmpl,1582 CC,126.32 bhp,5.0,8.31,22.32,1582.0,126.32,True,False,False,True,False,6,0.014108723126353525
+544,Mercedes-Benz New C-Class Progressive C 200,Kochi,2019,13190,Petrol,Automatic,First,0.0 kmpl,1950 CC,181.43 bhp,5.0,38.99,0.0,1950.0,181.43,False,False,True,True,False,6,0.0
+3682,Maruti Ignis 1.2 Delta,Kochi,2019,12076,Petrol,Manual,First,20.89 kmpl,1197 CC,81.80 bhp,5.0,5.5,20.89,1197.0,81.8,False,False,True,False,True,6,0.017451963226857173
+2319,Mercedes-Benz E-Class E 350 d,Coimbatore,2019,9312,Diesel,Automatic,First,18.0 kmpl,2987 CC,258 bhp,5.0,78.8,18.0,2987.0,258.0,True,False,False,True,False,6,0.006026113154996279
+4108,Mitsubishi Pajero Sport 4X4 AT,Coimbatore,2019,11827,Diesel,Automatic,First,13.5 kmpl,2477 CC,175.56 bhp,6.0,27.11,13.5,2477.0,175.56,True,False,False,True,False,6,0.00545014129775933
+5715,Honda City i-VTEC CVT V,Kochi,2019,22321,Petrol,Automatic,First,18.0 kmpl,1497 CC,117.3 bhp,5.0,11.66,18.0,1497.0,117.3,False,False,True,True,False,6,0.012024048088160287
+526,Maruti Swift VXI,Kochi,2019,20667,Petrol,Manual,First,22.0 kmpl,1197 CC,81.80 bhp,5.0,6.37,22.0,1197.0,81.8,False,False,True,False,True,6,0.01837928152182182
+5079,Hyundai Elite i20 Asta Option,Coimbatore,2019,21134,Petrol,Manual,First,18.6 kmpl,1197 CC,81.86 bhp,5.0,8.78,18.6,1197.0,81.86,False,False,True,False,True,6,0.015538847104812993
+4728,Hyundai Verna VTVT 1.6 SX Option,Kochi,2019,12336,Petrol,Manual,First,17.0 kmpl,1591 CC,121.3 bhp,5.0,11.88,17.0,1591.0,121.3,False,False,True,False,True,6,0.010685103701643554
+135,Hyundai Verna VTVT 1.6 AT SX Plus,Kochi,2019,12645,Petrol,Automatic,First,17.0 kmpl,1591 CC,121.3 bhp,5.0,11.5,17.0,1591.0,121.3,False,False,True,True,False,6,0.010685103701643554
+3156,Hyundai Grand i10 1.2 Kappa Magna AT,Coimbatore,2019,12153,Petrol,Automatic,First,18.9 kmpl,1197 CC,81.86 bhp,5.0,6.84,18.9,1197.0,81.86,False,False,True,True,False,6,0.01578947367101965
+3705,Mercedes-Benz GLC 220d 4MATIC Style,Coimbatore,2019,29311,Diesel,Automatic,First,17.9 kmpl,2143 CC,170 bhp,5.0,50.97,17.9,2143.0,170.0,True,False,False,True,False,6,0.008352776477670193
+3161,Mini Cooper 5 DOOR D,Kochi,2019,14857,Diesel,Automatic,First,20.7 kmpl,1496 CC,113.98 bhp,5.0,31.55,20.7,1496.0,113.98,True,False,False,True,False,6,0.01383689838647266
+3163,Ford Endeavour Titanium 4X2,Coimbatore,2019,14648,Diesel,Manual,First,12.62 kmpl,2198 CC,158 bhp,7.0,27.36,12.62,2198.0,158.0,True,False,False,False,True,6,0.005741583254894639
+1474,Maruti Baleno Zeta 1.2,Coimbatore,2019,17705,Petrol,Manual,First,21.4 kmpl,1197 CC,83.1 bhp,5.0,8.7,21.4,1197.0,83.1,False,False,True,False,True,6,0.017878028389408496
+512,Hyundai Creta 1.6 SX Plus Dual Tone Petrol,Kochi,2019,8587,Petrol,Manual,First,15.29 kmpl,1591 CC,121.3 bhp,5.0,13.56,15.29,1591.0,121.3,False,False,True,False,True,6,0.009610307976360585
+1485,Toyota Fortuner 3.0 Diesel,Kolkata,2019,80000,Diesel,Manual,First,11.5 kmpl,2982 CC,171 bhp,7.0,8.99,11.5,2982.0,171.0,True,False,False,False,True,6,0.003856472165038071
+4399,Maruti Swift Dzire AMT ZDI,Chennai,2019,65000,Diesel,Automatic,First,26.59 kmpl,1248 CC,74 bhp,5.0,6.75,26.59,1248.0,74.0,True,False,False,True,False,6,0.021306089726517555
+2637,Hyundai Grand i10 1.2 Kappa Sportz Option,Coimbatore,2019,13916,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5.0,6.44,18.9,1197.0,81.86,False,False,True,False,True,6,0.01578947367101965
+2646,Ford Figo 2015-2019 1.2P Sports Edition MT,Mumbai,2019,1000,Petrol,Manual,First,18.12 kmpl,1196 CC,86.8 bhp,5.0,6.8,18.12,1196.0,86.8,False,False,True,False,True,6,0.015150501659573158
+5737,Hyundai i20 Sportz Option 1.2,Kochi,2019,12800,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5.0,7.67,18.6,1197.0,81.83,False,False,True,False,True,6,0.015538847104812993
+5038,Land Rover Discovery Sport TD4 HSE 7S,Coimbatore,2019,24013,Diesel,Automatic,First,12.81 kmpl,1999 CC,148.31 bhp,7.0,56.14,12.81,1999.0,148.31,True,False,False,True,False,6,0.006408204098845321
+1505,Land Rover Range Rover Sport SE,Kochi,2019,26013,Diesel,Automatic,First,12.65 kmpl,2993 CC,255 bhp,5.0,97.07,12.65,2993.0,255.0,True,False,False,True,False,6,0.004226528565243392
+155,Hyundai EON Magna Plus,Kochi,2019,14322,Petrol,Manual,First,21.1 kmpl,814 CC,55.2 bhp,5.0,4.23,21.1,814.0,55.2,False,False,True,False,True,6,0.02592137588953148
+434,Renault Captur 1.5 Diesel RXL,Coimbatore,2019,24950,Diesel,Manual,First,20.37 kmpl,1461 CC,108.45 bhp,5.0,13.37,20.37,1461.0,108.45,True,False,False,False,True,6,0.0139425051239271
+5769,Tata Tiago 1.2 Revotron XZ,Coimbatore,2019,20712,Petrol,Manual,First,23.84 kmpl,1199 CC,84 bhp,5.0,6.94,23.84,1199.0,84.0,False,False,True,False,True,6,0.019883236013441836
+3132,Porsche Cayenne Base,Kochi,2019,14298,Petrol,Automatic,First,13.33 kmpl,2995 CC,340 bhp,5.0,2.02,13.33,2995.0,340.0,False,False,True,True,False,6,0.004450751250600751
+1532,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,11241,Diesel,Manual,First,13.68 kmpl,2393 CC,147.8 bhp,8.0,22.55,13.68,2393.0,147.8,True,False,False,False,True,6,0.005716673629036074
+1534,Honda City i VTEC VX Option,Coimbatore,2019,23882,Petrol,Manual,First,17.4 kmpl,1497 CC,117.3 bhp,5.0,11.87,17.4,1497.0,117.3,False,False,True,False,True,6,0.01162324648522161
+4423,Mercedes-Benz New C-Class C220 CDI Executive Edition,Kochi,2019,17320,Diesel,Automatic,First,15.8 kmpl,2148 CC,170 bhp,5.0,37.99,15.8,2148.0,170.0,True,False,False,True,False,6,0.007355679698623986
+3116,Hyundai i20 1.4 Sportz,Coimbatore,2019,32251,Diesel,Manual,First,22.54 kmpl,1396 CC,88.73 bhp,5.0,8.61,22.54,1396.0,88.73,True,False,False,False,True,6,0.016146131793591593
+4653,Ford EcoSport 1.5 TDCi Trend Plus BE,Coimbatore,2019,35188,Diesel,Manual,First,22.77 kmpl,1498 CC,98.59 bhp,5.0,11.13,22.77,1498.0,98.59,True,False,False,False,True,6,0.015200267012549886
+5789,Renault KWID RXL,Kochi,2019,7858,Petrol,Manual,First,25.17 kmpl,799 CC,53.3 bhp,5.0,3.8,25.17,799.0,53.3,False,False,True,False,True,6,0.031501877307256725
+5805,Skoda Rapid 1.6 MPI Ambition,Coimbatore,2019,21214,Petrol,Manual,First,15.41 kmpl,1598 CC,103.52 bhp,5.0,9.66,15.41,1598.0,103.52,False,False,True,False,True,6,0.009643304124128095
+357,Skoda Superb L&K 1.8 TSI AT,Kochi,2019,13747,Petrol,Automatic,First,14.67 kmpl,1798 CC,177.46 bhp,5.0,27.3,14.67,1798.0,177.46,False,False,True,True,False,6,0.008159065623938228
+2877,Tata Tigor 1.05 Revotorq XZ Option,Kochi,2019,29279,Diesel,Manual,First,24.7 kmpl,1047 CC,69 bhp,5.0,7.46,24.7,1047.0,69.0,True,False,False,False,True,6,0.023591212966961587
+3782,Mahindra Thar DI 4X4,Kochi,2019,13024,Diesel,Manual,First,18.06 kmpl,2523 CC,63 bhp,7.0,9.11,18.06,2523.0,63.0,True,False,False,False,True,6,0.007158145062561179
+4438,Maruti Alto 800 2016-2019 LXI Optional,Jaipur,2019,3000,Petrol,Manual,First,24.7 kmpl,796 CC,47.3 bhp,5.0,3.5,24.7,796.0,47.3,False,False,True,False,True,6,0.031030150714786243
+3787,Hyundai Verna 1.6 CRDI SX Option,Kochi,2019,30529,Diesel,Manual,First,23.9 kmpl,1582 CC,126.2 bhp,5.0,14.28,23.9,1582.0,126.2,True,False,False,False,True,6,0.01510745890321905
+1816,Hyundai i20 1.2 Magna Executive,Kochi,2019,27339,Petrol,Manual,First,18.6 kmpl,1197 CC,81.83 bhp,5.0,6.27,18.6,1197.0,81.83,False,False,True,False,True,6,0.015538847104812993
+2488,Tata Hexa XTA,Coimbatore,2019,14233,Diesel,Automatic,First,17.6 kmpl,2179 CC,153.86 bhp,7.0,17.85,17.6,2179.0,153.86,True,False,False,True,False,6,0.008077099583259707
+1877,Toyota Innova Crysta 2.8 GX AT,Kochi,2019,10601,Diesel,Automatic,First,11.36 kmpl,2755 CC,171.5 bhp,7.0,19.65,11.36,2755.0,171.5,True,False,False,True,False,6,0.0041234119767247146
+1583,Audi Q7 45 TDI Quattro Premium Plus,Kochi,2019,6773,Diesel,Automatic,First,14.75 kmpl,2967 CC,245 bhp,7.0,72.94,14.75,2967.0,245.0,True,False,False,True,False,6,0.00497135153186001
+5191,Ford Endeavour 2.2 Titanium AT 4X2,Chennai,2019,9000,Diesel,Automatic,First,12.62 kmpl,2198 CC,158 bhp,7.0,32.9,12.62,2198.0,158.0,True,False,False,True,False,6,0.005741583254894639
+2595,Tata Tiago AMT 1.2 Revotron XZA,Coimbatore,2019,15379,Petrol,Automatic,First,23.84 kmpl,1199 CC,83.83 bhp,5.0,6.97,23.84,1199.0,83.83,False,False,True,True,False,6,0.019883236013441836
+3059,BMW 3 Series 320d Luxury Line,Delhi,2019,87000,Diesel,Automatic,First,22.69 kmpl,1995 CC,190 bhp,5.0,6.67,22.69,1995.0,190.0,True,False,False,True,False,6,0.01137343357825893
+5875,Mercedes-Benz C-Class Progressive C 220d,Ahmedabad,2019,4000,Diesel,Automatic,First,0.0 kmpl,1950 CC,194 bhp,5.0,35.0,0.0,1950.0,194.0,True,False,False,True,False,6,0.0
+4452,Toyota Innova Crysta 2.8 GX AT,Kochi,2019,14076,Diesel,Automatic,First,11.36 kmpl,2755 CC,171.5 bhp,7.0,19.4,11.36,2755.0,171.5,True,False,False,True,False,6,0.0041234119767247146
+3043,Land Rover Discovery Sport TD4 HSE,Coimbatore,2019,25899,Diesel,Automatic,First,12.63 kmpl,2179 CC,147.5 bhp,5.0,55.7,12.63,2179.0,147.5,True,False,False,True,False,6,0.00579623680321421
+5158,Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,20483,Diesel,Automatic,First,17.9 kmpl,2143 CC,136 bhp,5.0,30.3,17.9,2143.0,136.0,True,False,False,True,False,6,0.008352776477670193
+235,Toyota Innova Crysta 2.8 GX AT,Kochi,2019,14165,Diesel,Automatic,First,11.36 kmpl,2755 CC,171.5 bhp,7.0,19.64,11.36,2755.0,171.5,True,False,False,True,False,6,0.0041234119767247146
+5860,Mahindra Thar CRDe AC,Coimbatore,2019,16392,Diesel,Manual,First,16.55 kmpl,2498 CC,105 bhp,6.0,10.36,16.55,2498.0,105.0,True,False,False,False,True,6,0.006625300237539913
+5067,Land Rover Discovery Sport SD4 HSE Luxury 7S,Coimbatore,2019,17201,Diesel,Automatic,First,12.51 kmpl,2179 CC,187.7 bhp,7.0,58.91,12.51,2179.0,187.7,True,False,False,True,False,6,0.0057411656696919845
+2916,Jeep Compass 2.0 Limited 4X4,Coimbatore,2019,6261,Diesel,Manual,First,16.3 kmpl,1956 CC,170 bhp,5.0,23.91,16.3,1956.0,170.0,True,False,False,False,True,6,0.008333333329072937
+2917,Maruti Ignis 1.2 AMT Alpha,Coimbatore,2019,3906,Petrol,Automatic,First,20.89 kmpl,1197 CC,81.80 bhp,5.0,7.36,20.89,1197.0,81.8,False,False,True,True,False,6,0.017451963226857173
+2492,Maruti Alto 800 2016-2019 VXI,Kochi,2019,19855,Petrol,Manual,First,24.7 kmpl,796 CC,47.3 bhp,5.0,3.8,24.7,796.0,47.3,False,False,True,False,True,6,0.031030150714786243
+173,Hyundai Grand i10 1.2 Kappa Asta,Kolkata,2019,1000,Petrol,Manual,First,18.9 kmpl,1197 CC,81.86 bhp,5.0,6.5,18.9,1197.0,81.86,False,False,True,False,True,6,0.01578947367101965
+4748,Tata Tiago 1.2 Revotron XT Option,Coimbatore,2019,16698,Petrol,Manual,First,23.84 kmpl,1199 CC,84 bhp,5.0,5.85,23.84,1199.0,84.0,False,False,True,False,True,6,0.019883236013441836

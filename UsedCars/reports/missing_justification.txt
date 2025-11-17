@@ -1,0 +1,5 @@
+Missing-value handling used:
+- If a column had >40% missing values we dropped it (it likely lacks sufficient data).
+- For numeric columns with <=40% missing: impute median (robust to outliers).
+- For categorical columns with <=40% missing: impute mode (most common category).
+These choices balance retaining useful features vs avoiding excessive imputation bias.
